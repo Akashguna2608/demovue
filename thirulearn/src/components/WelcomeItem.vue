@@ -10,6 +10,7 @@
       <slot></slot>
     </div>
   </div>
+  <div>kjrfrrh</div>
 </template>
 
 <style scoped>
